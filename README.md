@@ -4,4 +4,4 @@ A DoS Attack Tool is a program used to perform a Denial of Service (DoS) attack.
 
 ## Tool Screenshot:
 
-![Dos Attack](image.png)
+![image](image.png)
